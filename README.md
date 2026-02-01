@@ -8,7 +8,7 @@ The dataset includes demographic, lifestyle, and biological risk factors.
 ## Models Used
 - Logistic Regression
 - Support Vector Machine (SVM)
-- K-Nearest Neighbours (KNN)
+
 
 ## Tools & Libraries
 - R / RStudio
